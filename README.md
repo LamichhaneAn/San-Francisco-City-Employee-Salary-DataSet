@@ -1,7 +1,7 @@
 # San-Francisco-City-Employee-Salary-DataSet
 To perform data analysis, I have mentioned 21 questions that we are going to solve one by one. using Python!
 
-To perform data analysis, I have mentioned 21 questions that we are going to solve one by one. Questions are as follows.
+Questions are as follows.
 1.  Display Top 10 Rows of The Dataset
 2. Check Last 10 Rows of The Dataset
 3. Find Shape of Our Dataset (Number of Rows And Number of Columns)
